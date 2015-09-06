@@ -17,6 +17,10 @@
 
 [zarys]: http://otworzksiazke.pl/images/ksiazki/zarys_powszechnej_historii_pieniadza/zarys_powszechnej_historii_pieniadza.pdf
 
+### awizy żyrowe
+
+TODO.
+
 ## Iberski Elija
 
 > page 74 (page 82 in PDF)
